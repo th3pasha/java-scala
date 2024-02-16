@@ -13,4 +13,9 @@ class Ceo {
   public String toString() {
     return "Ceo_" + name;
   }
+
+  // getter
+  public String getId() {
+    return id;
+  }
 }
